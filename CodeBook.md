@@ -3,23 +3,23 @@ Course Project: Getting and Cleaning Data
 ## Code book for the *new_df.txt* dataset
 
 1. **Activity**    
-  Activity Type (factor)  
-  Levels:  
+Activity Type (factor)  
+Levels:  
   * WALKING           
   * WALKING_UPSTAIRS  
   * WALKING_DOWNSTAIRS
   * SITTING           
   * STANDING          
   * LAYING
-  
-&nbsp;   
+
+&nbsp;  
 2. **Subject**  
-  Subject identifier (factor)  
-  Levels:  
-  * "1"  
-  * "2"  
-  * ...  
-  * "30"  
+Subject identifier (factor)  
+Levels:  
+  * "1"
+  * "2"
+  * ...
+  * "30"
 
 &nbsp;  
 3. **tBodyAcc-mean()-X**  
