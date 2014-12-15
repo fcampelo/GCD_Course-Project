@@ -12,7 +12,7 @@ Course Project: Getting and Cleaning Data
   * STANDING          
   * LAYING
   
-\   
+&nbsp;   
 2. **Subject**  
   Subject identifier (factor)  
   Levels:  
